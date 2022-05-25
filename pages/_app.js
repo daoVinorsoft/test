@@ -21,7 +21,7 @@ function MyApp({ Component, pageProps }) {
               pageId="107585017814932"
               language="vi_VN"
               themeColor={"#004a99"}
-              bottomSpacing={100}
+              bottomSpacing={10}
               loggedInGreeting="Chào bạn! Tôi có thể giúp gì cho bạn"
               loggedOutGreeting="Chào bạn! Tôi có thể giúp gì cho bạn"
               greetingDialogDisplay={"show"}
