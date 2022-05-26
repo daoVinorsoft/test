@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps }) {
       <Component {...pageProps} />
       <div className="App">
           <MessengerChat
-              pageId="107585017814932"
+              pageId="111358264078342"
               language="vi_VN"
               themeColor={"#004a99"}
               bottomSpacing={100}
